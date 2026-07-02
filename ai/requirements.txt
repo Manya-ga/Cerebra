@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision
+torchaudio
+monai[all]
+nibabel
+SimpleITK
+opencv-python
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+tensorboard
+captum
